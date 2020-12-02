@@ -1,9 +1,9 @@
 # react-boilerplate
-[![Generic badge](https://img.shields.io/badge/version-1.0.0-green.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/license-MIT-red.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/version-1.0.0-green.svg)](#)
+[![Generic badge](https://img.shields.io/badge/license-MIT-red.svg)](#)
 
 
-This is a simple boilerplate for a React JS project that is configured with webpack and babel from scratch.
+This is a simple boilerplate for a React JS project that has configured with webpack and babel from scratch.
 
 ### 1) install
 `yarn install` or `npm install`
